@@ -1,0 +1,20 @@
+
+
+# @name get
+GET https://dummyjson.com/products/categories 
+
+###
+# @name add
+POST http://localhost:3000/api/products 
+Content-Type: application/json
+
+{
+    "title": "Test"
+}
+
+###
+
+# @name get
+GET http://localhost:3000/api/products 
+
+
