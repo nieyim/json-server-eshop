@@ -22,15 +22,9 @@ server.use((req, res, next) => {
   next()
 })
 
-// In this example, returned resources will be wrapped in a body property
-router.render = (req, res) => {
-  res.jsonp({
-    data: res.locals.data
-  })
-}
 
 // Use default router
-server.use('api',router)
+server.use('/api',router)
 server.listen(3000, () => {
   console.log('JSON Server is running')
 })
