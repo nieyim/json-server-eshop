@@ -2,9 +2,9 @@
   "name": "json-server-eshop",
   "version": "1.0.0",
   "description": "JSON Server on Vercel",
-  "main": "api/server.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node api/server.js",
+    "start": "server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
