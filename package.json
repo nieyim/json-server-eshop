@@ -13,6 +13,7 @@
   },
   "scripts": {
     "dev": "nodemon index.js",
-    "start": "node index.js"
+    "start": "yarn run generate && node index.js",
+    "generate" : "node generate.js"
   }
 }
