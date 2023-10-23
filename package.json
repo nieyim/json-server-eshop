@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "json-fake-api",
   "version": "1.0.0",
   "main": "index.js",
@@ -17,19 +16,4 @@
     "start": "yarn run generate && node index.js",
     "generate" : "node generate.js"
   }
-=======
-  "name": "json-server-eshop",
-  "version": "1.0.0",
-  "description": "JSON Server on Vercel",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "json-server": "^0.17.4"
-  },
-  "author": "",
-  "license": "ISC"
->>>>>>> 5e70f671c39b9264e76bd6aeac205f3d95123af8
 }
