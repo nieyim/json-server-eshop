@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/node
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 
@@ -142,3 +143,9 @@ dist
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/node
+=======
+# Dependency directories
+node_modules/
+
+.idea
+>>>>>>> 5e70f671c39b9264e76bd6aeac205f3d95123af8
