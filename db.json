@@ -2397,26 +2397,51 @@
         }
     ],
     "categories": [
-        "smartphones",
-        "laptops",
-        "fragrances",
-        "skincare",
-        "groceries",
-        "home-decoration",
-        "furniture",
-        "tops",
-        "womens-dresses",
-        "womens-shoes",
-        "mens-shirts",
-        "mens-shoes",
-        "mens-watches",
-        "womens-watches",
-        "womens-bags",
-        "womens-jewellery",
-        "sunglasses",
-        "automotive",
-        "motorcycle",
-        "lighting"
+        {
+            "title": "smartphone",
+            "id": 1,
+            "image": "https://img.global.news.samsung.com/in/wp-content/uploads/2019/01/Galaxy-10yrs_High-Res..jpg"
+        },
+        {
+            "title": "laptops",
+            "id": 2,
+            "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--7ZUuRa2e--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1620681379405/HP-Envy-x360-2020-hero.jpeg"
+        },
+        {
+            "title": "fragrances",
+            "id": 3,
+            "image": "https://www.scentbird.com/blog/wp-content/uploads/2018/04/scentbird-fragrance-categories.jpg"
+        },
+        {
+            "title": "skincare",
+            "id": 4,
+            "image": "https://cew.org/wp-content/uploads/2020/01/influenster.jpg"
+        },
+        {
+            "title": "groceries",
+            "id": 5,
+            "image": "https://foodtank.com/wp-content/uploads/2021/09/gemma-stpjHJGqZyw-unsplash.jpg"
+        },
+        {
+            "title": "home-decoration",
+            "id": 6,
+            "image": "https://m.media-amazon.com/images/I/71k9S5YWqyL.jpg"
+        },
+        {
+            "title": "furniture",
+            "id": 7,
+            "image": "https://hips.hearstapps.com/hmg-prod/images/posters-in-cozy-apartment-interior-royalty-free-image-943910360-1534189931.jpg"
+        },
+        {
+            "title": "mens-shirts",
+            "id": 8,
+            "image": "https://5.imimg.com/data5/SELLER/Default/2020/9/EE/FP/MT/113682351/shirt-jpg-500x500.jpg"
+        },
+        {
+            "title": "womens-dresses",
+            "id": 9,
+            "image": "https://product.hstatic.net/1000254572/product/z3870899045526_d29f78df90a9d4a9282e454e51382eb6_0eed435ecb0648df84a2b0da78572cd4_large.jpg"
+        }
     ],
     "posts": [
         {
