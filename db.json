@@ -7977,6 +7977,61 @@
             "title": "womens-dresses",
             "id": 9,
             "image": "https://product.hstatic.net/1000254572/product/z3870899045526_d29f78df90a9d4a9282e454e51382eb6_0eed435ecb0648df84a2b0da78572cd4_large.jpg"
+        },
+        {
+            "title": "tops",
+            "id": 10,
+            "image": "https://m.media-amazon.com/images/I/31Ls15EZZ-L._SY500_.jpg"
+        },
+        {
+            "title": "womens-shoes",
+            "id": 11,
+            "image": "https://www.houseoffraser.co.uk/images/imgzoom/23/23131829_xxl.jpg"
+        },
+        {
+            "title": "mens-shoes",
+            "id": 12,
+            "image": "https://www.tnvcollection.pk/cdn/shop/products/11904782054_1331854443.jpg?v=1671993923"
+        },
+        {
+            "title": "mens-watches",
+            "id": 13,
+            "image": "https://www.swisswatchexpo.com/thewatchclub/wp-content/uploads/2023/05/Rolex-GMT-Master-II-Black-Blue-Batman-Bezel-Steel-Mens-Watch-126710-.jpg"
+        },
+        {
+            "title": "womens-watches",
+            "id": 14,
+            "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/watch/7/n/1/-original-imagqhvfaytxwmuu.jpeg?q=90"
+        },
+        {
+            "title": "womens-bags",
+            "id": 15,
+            "image": "https://i.pinimg.com/originals/82/de/69/82de69547424813f609b8fdb6722962e.jpg"
+        },
+        {
+            "title": "womens-jewellery",
+            "id": 16,
+            "image": "https://product.hstatic.net/200000103143/product/592593c01_rgb_a634ab32cf7041e18f1b7a38d48bf865_master.jpg"
+        },
+        {
+            "title": "sunglasses",
+            "id": 17,
+            "image": "https://media.wired2fish.com/uploads/2022/08/7e1c1dc4-22e7-4678-8e1d-977e95a421e3.webp"
+        },
+        {
+            "title": "automotive",
+            "id": 18,
+            "image": "https://cdne.kantar.com/en-cn/-/media/project/kantar/china/inspiration-china/2021-global-brandz-editing/2021-global-brandz-automotive-industry/automotive-head-picture.jpg?h=600&w=900&hash=9DF382A3113CEA56D91807E0E9181157"
+        },
+        {
+            "title": "motorcycle",
+            "id": 19,
+            "image": "https://cdn.shopify.com/s/files/1/0622/0660/7617/files/zonegtsgreen_1200x.jpg?v=1689042117"
+        },
+        {
+            "title": "lighting",
+            "id": 20,
+            "image": "https://i.guim.co.uk/img/media/5e1129b33f8038a7d1dac07793a38d07ebaeaed5/118_418_5206_3124/master/5206.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=db586757052d3c8aaac830246dad8c12"
         }
     ],
     "posts": [
