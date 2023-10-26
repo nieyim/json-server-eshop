@@ -1,17 +1,16 @@
 {
-  "name": "json-fake-api",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "json-server": "^0.17.4"
-  },
-  "devDependencies": {
-    "nodemon": "^3.0.1"
-  },
-  "scripts": {
-    "dev": "nodemon index.js",
-    "start": "yarn run generate && node index.js",
-    "generate": "node generate.js"
-  }
+    "name": "json-fake-api",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "json-server": "^0.17.4"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    },
+    "scripts": {
+        "dev": "nodemon index.js",
+        "start": "nodemon index.js"
+    }
 }
