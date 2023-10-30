@@ -8052,19 +8052,23 @@
     "posts": [
         {
             "id": 1,
-            "title": "His mother had always taught him",
-            "body": "His mother had always taught him not to ever think of himself as better than others. He'd tried to live by this motto. He never looked down on those who were less fortunate or who had less money than him. But the stupidity of the group of people he was talking to made him change his mind.",
+            "title": "Cooking in a Digital World: How Online Recipes Are Changing the Way We Cook",
+            "body": " As technology continues to advance, so does the way we cook. Explore how online recipes, cooking apps, and meal kit deliveries have transformed the culinary landscape. We'll delve into the benefits of these innovations and how they've made home cooking more accessible and enjoyable.",
             "userId": 9,
-            "tags": ["history", "american", "crime"],
-            "reactions": 2
+            "tags": ["Cooking", "Culinary Innovation", "Technology"],
+            "reactions": 2,
+            "thumbnail": "https://t4.ftcdn.net/jpg/03/32/75/39/360_F_332753934_tBacXEgxnVplFBRyKbCif49jh0Wz89ns.jpg",
+            "createdAt": 1698658377657
         },
         {
             "id": 2,
-            "title": "He was an expert but not in a discipline",
-            "body": "He was an expert but not in a discipline that anyone could fully appreciate. He knew how to hold the cone just right so that the soft server ice-cream fell into it at the precise angle to form a perfect cone each and every time. It had taken years to perfect and he could now do it without even putting any thought behind it.",
+            "title": "The Healing Power of Music: How Melodies Influence Our Mood",
+            "body": "Music has the incredible ability to evoke emotions and change our mood. In this blog, we explore the science behind music's impact on mental health and share tips on how to curate playlists that cater to your emotional needs.",
             "userId": 13,
-            "tags": ["french", "fiction", "english"],
-            "reactions": 2
+            "tags": ["Music", "Health"],
+            "reactions": 2,
+            "thumbnail": "https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg",
+            "createdAt": 1698659425402
         },
         {
             "id": 4,
