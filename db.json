@@ -2350,7 +2350,7 @@
             "username": "nloiterton8",
             "password": "HTQxxXV9Bq4",
             "birthDate": "1971-03-11",
-            "image": "https://robohash.org/excepturiiuremolestiae.png",
+            "image": "https://mui.com/static/images/avatar/1.jpg",
             "bloodGroup": "A+",
             "height": 170,
             "weight": 97.1,
@@ -2533,7 +2533,7 @@
             "username": "rhallawellb",
             "password": "esTkitT1r",
             "birthDate": "1990-12-14",
-            "image": "https://robohash.org/namquaerataut.png",
+            "image": "https://mui.com/static/images/avatar/7.jpg",
             "bloodGroup": "O−",
             "height": 168,
             "weight": 96.8,
@@ -2715,7 +2715,7 @@
             "username": "kminchelle",
             "password": "0lelplR",
             "birthDate": "1996-02-02",
-            "image": "https://robohash.org/autquiaut.png",
+            "image": "https://i.pravatar.cc/128?img=32",
             "bloodGroup": "A+",
             "height": 176,
             "weight": 45.7,
@@ -3142,7 +3142,7 @@
             "username": "froachel",
             "password": "rfVSKImC",
             "birthDate": "1987-11-11",
-            "image": "https://robohash.org/temporarecusandaeest.png",
+            "image": "https://i.pravatar.cc/128?img=68",
             "bloodGroup": "B−",
             "height": 164,
             "weight": 87.1,
@@ -8058,7 +8058,7 @@
             "tags": ["Cooking", "Technology", "Food"],
             "reactions": 124,
             "thumbnail": "https://t4.ftcdn.net/jpg/03/32/75/39/360_F_332753934_tBacXEgxnVplFBRyKbCif49jh0Wz89ns.jpg",
-            "createdAt": 1698658377657
+            "createdAt": 1700105689611
         },
         {
             "id": 2,
@@ -8078,7 +8078,7 @@
             "tags": ["Shopping", "Technology"],
             "reactions": 89,
             "thumbnail": "https://cdn.tgdd.vn/Files/2021/10/05/1387899/10-meo-tiet-kiem-tien-cho-hoi-nghien-mua-sam-online-202110051118550007.jpg",
-            "createdAt": 1698659425402
+            "createdAt": 1698910533407
         },
         {
             "id": 7,
@@ -8098,14 +8098,14 @@
             "tags": ["Health", "Misinformation"],
             "thumbnail": "https://healthmatters.nyp.org/wp-content/uploads/2017/11/NYP-Five-Medical-Myths-MAIN.jpg",
             "reactions": 12,
-            "createdAt": 1658238527391
+            "createdAt": 1652968103000
         },
         {
             "id": 11,
             "title": "Understanding Climate Change: Science, Impact, and Solutions",
             "body": "Climate change is one of the most pressing global issues. Explore a comprehensive overview of climate change, its scientific basis, its impact on ecosystems and human society, and solutions for a sustainable future.",
             "userId": 25,
-            "tags": ["Enviroment", "Health"],
+            "tags": ["Environment", "Health"],
             "thumbnail": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/11/shutterstock_285980522.jpg",
             "reactions": 71,
             "createdAt": 1654138426691
@@ -8118,7 +8118,7 @@
             "tags": ["Love", "Technology"],
             "reactions": 50,
             "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/200213162906-braininlove-amygdala.jpg?q=w_1600,h_900,x_0,y_0,c_fill",
-            "createdAt": 1698910533407
+            "createdAt": 1698658377657
         },
         {
             "id": 14,
@@ -8126,7 +8126,7 @@
             "body": "Traveling is a wonderful way to explore the world, but it also has an impact on the environment. Find out the concept of eco-friendly travel and offers tips for reducing your carbon footprint while still enjoying the beauty of our planet. Discover how sustainable travel choices can make a difference.",
             "userId": 1,
             "tags": ["Travel", "Environment"],
-            "reactions": 96,
+            "reactions": 309,
             "thumbnail": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-8/couple-hiking-mountain-climbing-1296x728-header.jpg?w=1155&h=1528",
             "createdAt": 1623138426324
         },
@@ -8138,7 +8138,7 @@
             "tags": ["Game", "Technology"],
             "reactions": 103,
             "thumbnail": "https://media.istockphoto.com/id/1316805164/photo/woman-play-3d-vr-game.jpg?s=612x612&w=0&k=20&c=rCNry1aOTxo1arYzeNabs71jlxwoy3RZaSIGBjPCME8=",
-            "createdAt": 1643132421356
+            "createdAt": 1698659425402
         },
         {
             "id": 17,
@@ -8148,7 +8148,7 @@
             "tags": ["Delivery", "History"],
             "thumbnail": "https://i.ytimg.com/vi/mzhvR4wm__M/maxresdefault.jpg",
             "reactions": 21,
-            "createdAt": 1593132421356
+            "createdAt": 1601081227000
         },
         {
             "id": 18,
@@ -8172,51 +8172,63 @@
         },
         {
             "id": 23,
-            "title": "It's an unfortunate reality that we don't teach people how to make money",
-            "body": "It's an unfortunate reality that we don't teach people how to make money (beyond getting a 9 to 5 job) as part of our education system. The truth is there are a lot of different, legitimate ways to make money. That doesn't mean they are easy and that you won't have to work hard to succeed, but it does mean that if you're willing to open your mind a bit you don't have to be stuck in an office from 9 to 5 for the next fifty years o your life.",
+            "title": "The Hidden Link: Impact of Crime on Mental Health",
+            "body": "Delve into the often-overlooked connection between crime and mental health to explores the psychological toll that experiencing or witnessing crime can have on individuals, shedding light on the importance of mental health support in the aftermath of traumatic events.",
             "userId": 2,
-            "tags": ["Crime", "English"],
-            "reactions": 4
+            "tags": ["Crime", "Health"],
+            "reactions": 97,
+            "thumbnail": "https://media.gq-magazine.co.uk/photos/5d13a8aceef9212bc1a00332/16:9/w_2560%2Cc_limit/mental-health-and-crime-02-gq-20jun19_istock_b.jpg",
+            "createdAt": 1512311603000
         },
         {
             "id": 25,
-            "title": "It went through such rapid contortions",
-            "body": "It went through such rapid contortions that the little bear was forced to change his hold on it so many times he became confused in the darkness, and could not, for the life of him, tell whether he held the sheep right side up, or upside down. But that point was decided for him a moment later by the animal itself, who, with a sudden twist, jabbed its horns so hard into his lowest ribs that he gave a grunt of anger and disgust.",
+            "title": "Harmony Through Time: The Evolution of Rhythm Through History",
+            "body": "Take a journey through the ages to explore how music has evolved over different historical periods. From ancient melodies to modern genres, delves into the cultural, social, and technological influences that have shaped the music we know and love today.",
             "userId": 27,
-            "tags": ["Fiction", "History", "French"],
-            "reactions": 3
+            "tags": ["Music", "History"],
+            "reactions": 121,
+            "thumbnail": "https://i.ytimg.com/vi/OW3JuoVRSHg/maxresdefault.jpg",
+            "createdAt": 1642931663000
         },
         {
             "id": 26,
-            "title": "She patiently waited for his number to be called.",
-            "body": "She patiently waited for his number to be called. She had no desire to be there, but her mom had insisted that she go. She's resisted at first, but over time she realized it was simply easier to appease her and go. Mom tended to be that way. She would keep insisting until you wore down and did what she wanted. So, here she sat, patiently waiting for her number to be called.",
+            "title": "Whispers in the Shadows: Exploring Haunted Places",
+            "body": "Embark on a chilling journey as we uncover tales of haunted locations and ghostly encounters. From ancient castles to abandoned asylums, this blog delves into the mysteries surrounding these eerie places, exploring the ghostly folklore and the spine-tingling stories that have endured over time.",
             "userId": 27,
-            "tags": ["French", "Mystery", "Crime"],
-            "reactions": 7
+            "tags": ["Mystery", "Paranormal "],
+            "reactions": 315,
+            "thumbnail": "https://i.insider.com/562fbe249dd7cc1b008c528d?width=1000&format=jpeg&auto=webp",
+            "createdAt": 1635696000000
         },
         {
             "id": 27,
-            "title": "Ten more steps.",
-            "body": "If he could take ten more steps it would be over, but his legs wouldn't move. He tried to will them to work, but they wouldn't listen to his brain. Ten more steps and it would be over but it didn't appear he would be able to do it.",
+            "title": "Beyond Romance: The Many Facets of Self-Love",
+            "body": "Shift the focus to self-love in this blog post, exploring the importance of cultivating a healthy relationship with oneself. From self-care practices to building self-confidence, this post encourages readers to embrace and prioritize self-love as a foundation for positive relationships with others.",
             "userId": 17,
-            "tags": ["Mystery", "Classic", "Love"],
-            "reactions": 4
+            "tags": ["Love", "Health"],
+            "reactions": 170,
+            "thumbnail": "https://assets-global.website-files.com/62f567603143f0e513fc0143/63eecd7471fbd105769b9232_self-love-journaling-prompts.png",
+            "createdAt": 1549000387000
         },
         {
             "id": 28,
-            "title": "He had three simple rules by which he lived.",
-            "body": "He had three simple rules by which he lived. The first was to never eat blue food. There was nothing in nature that was edible that was blue. People often asked about blueberries, but everyone knows those are actually purple. He understood it was one of the stranger rules to live by, but it had served him well thus far in the 50+ years of his life.",
+            "title": "Crimes and Codes: The Intricate of Technology Through History",
+            "body": "The riveting intersection of technology, history, and crime as we uncover the fascinating stories of how technological advancements have both solved and exacerbated criminal activities throughout the ages. From codebreakers in World War II to cybercrime in the digital era, this blog explores the historical evolution of technology's role in criminal endeavors and the tireless efforts to stay one step ahead.",
             "userId": 22,
-            "tags": ["Crime", "Love"],
-            "reactions": 2
+            "tags": ["Crime", "Technology", "History"],
+            "reactions": 265,
+            "thumbnail": "https://importanceoftechnology.net/wp-content/uploads/2020/09/How-Technology-Aids-in-Crime-Prevention.jpg",
+            "createdAt": 1698833587000
         },
         {
             "id": 30,
-            "title": "Things aren't going well at all",
-            "body": "Things aren't going well at all with mom today. She is just a limp noodle and wants to sleep all the time. I sure hope that things get better soon.",
+            "title": "Into the Unknown: Exploring Mysteries That Defy Explanation",
+            "body": "Join us on a virtual expedition into the heart of some of history's most perplexing and captivating mysteries. From disappearances to inexplicable phenomena, this blog takes you on a rollercoaster ride through the annals of the unknown. We'll delve into the intricate details of events that have left investigators scratching their heads, exploring the theories, controversies, and the enduring allure of the unexplained. From the Bermuda Triangle to the Mary Celeste, this journey through mysterious events invites you to question the boundaries of human understanding and ponder the secrets that continue to elude us.",
             "userId": 2,
-            "tags": ["American", "Love", "Fiction"],
-            "reactions": 0
+            "tags": ["Mystery", "History", "Unexplained"],
+            "reactions": 154,
+            "thumbnail": "https://media.licdn.com/dms/image/C5612AQGvhp7AQSdc6Q/article-inline_image-shrink_1000_1488/0/1617776488362?e=1703721600&v=beta&t=c3v60wUZbmY9q17uOxMiDz2KI0dIohTKMvm0HtIDVvw",
+            "createdAt": 1523414123000
         }
     ],
     "carts": [
