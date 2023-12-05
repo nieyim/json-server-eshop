@@ -19,6 +19,40 @@
             "description": [
                 "The iPhone 15 Pro Max 1 TB is the epitome of cutting-edge technology, seamlessly blending a sleek design with unparalleled performance. Boasting a massive 1 terabyte of internal storage, this device caters to the needs of users who demand extensive space for their photos, videos, apps, and more. The device features a stunning 6.7-inch Super Retina XDR display, offering vibrant colors and deep contrasts for an immersive visual experience. The A16 Bionic chip powers the iPhone 15 Pro Max, ensuring lightning-fast speeds and efficient multitasking. With an advanced triple-lens camera system, photography enthusiasts will revel in the ability to capture professional-grade photos and 8K videos. The device also supports 5G connectivity, enabling swift download speeds and seamless streaming, further elevating the overall user experience.",
                 "In terms of design, the iPhone 15 Pro Max 1 TB continues Apple's commitment to elegance and functionality. The aerospace-grade aluminum frame and durable ceramic shield front cover ensure durability, while the sleek glass back adds a touch of sophistication. The device is water and dust resistant with an IP68 rating, providing peace of mind in various environments. The incorporation of Face ID technology guarantees secure and convenient authentication, while the device supports MagSafe accessories for efficient wireless charging and effortless attachment of compatible accessories. With its impressive storage capacity, top-notch performance, and a refined design, the iPhone 15 Pro Max 1 TB stands as a flagship device that sets a new standard in the realm of premium smartphones."
+            ],
+            "spec": [
+                {
+                    "title": "Display",
+                    "content": "OLED, 6.7\", Super Retina XDR"
+                },
+                {
+                    "title": "OS",
+                    "content": "iOS 17"
+                },
+                {
+                    "title": "Rear Cam",
+                    "content": "Main 48 MP & Ultra Wide 12 MP, 12 MP"
+                },
+                {
+                    "title": "Selfie Cam",
+                    "content": "12MP"
+                },
+                {
+                    "title": "Chipset",
+                    "content": "Apple A17 Pro"
+                },
+                {
+                    "title": "RAM",
+                    "content": "8GB"
+                },
+                {
+                    "title": "Memory",
+                    "content": "1TB"
+                },
+                {
+                    "title": "Battery",
+                    "content": "4422 mAh, 20 W"
+                }
             ]
         },
         {
