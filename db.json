@@ -372,7 +372,30 @@
             "description": [
                 "Introducing the Infinix INBOOK, a sleek and powerful laptop designed to elevate your computing experience. With its modern and lightweight design, the INBOOK is an ideal companion for users on the go. The laptop boasts a vibrant 14-inch Full HD display that delivers crisp visuals, making it perfect for both work and entertainment. Powered by an efficient Intel processor, the INBOOK ensures smooth multitasking and responsive performance, allowing you to breeze through tasks effortlessly.",
                 "Equipped with a spacious storage capacity and ample RAM, the Infinix INBOOK caters to your data needs, providing a seamless computing environment. The laptop features a backlit keyboard, enhancing productivity in various lighting conditions. The INBOOK also emphasizes connectivity, offering a range of ports including USB-C and HDMI, ensuring compatibility with your favorite peripherals. With a focus on delivering a balance of style and functionality, the Infinix INBOOK stands as a reliable and affordable choice for users seeking a versatile laptop that effortlessly combines performance and portability."
-            ]
+            ],
+            "spec": {
+                "title": ["CPU", "RAM", "Storage", "Display", "VGA", "OS", "Size", "Connect Port"],
+                "content": [
+                    "Intel Core i5-10th Gen (up to 4.2 GHz)",
+                    "8GB DDR4",
+                    "512GB PCIe NVMe SSD",
+                    "14-inch Full HD IPS (1920 x 1080), 300 nits",
+                    "Intel Iris Plus Graphics G7",
+                    "Windows 11 Home",
+                    "312.6 mm x 221.2 mm x 16.3 mm, 1.48 kg",
+                    "HDMI 1.4, USB-C 3.2 Gen 2, 2x USB 3.2 Gen 1, microSD card reader, 3.5mm headphone jack"
+                ]
+            },
+            "reviews": {
+                "userID": [60, 32, 5],
+                "rate": [5, 4, 3],
+                "createdAt": [1676414400000, 1676328000000, 1673760000000],
+                "text": [
+                    "Wow, this Infinix INBOOK is a hidden gem! I'm a digital nomad and this laptop has become my trusty companion. It's incredibly thin and light, so I can easily carry it around in my backpack. The battery life is fantastic, lasting me a full workday without needing to plug in. The performance is surprisingly good for the price, I can even do some light video editing and gaming without any lag. Overall, I'm beyond impressed with this laptop!",
+                    "I'm a student and this Infinix INBOOK is perfect for my needs. It's powerful enough to handle all my coursework and online classes, and the keyboard is comfortable to type on for long hours. The display is bright and clear, which is great for watching videos and movies. The only thing I would like to see improved is the touchpad, it can be a bit finicky sometimes. But overall, I'm happy with my purchase.",
+                    "As a budget-conscious user, I was hesitant about the Infinix INBOOK. But I'm glad I took the plunge! It's definitely not the most powerful laptop out there, but it gets the job done for basic tasks like browsing, email, and social media. The build quality is decent, and the design is sleek and stylish. The battery life is just okay, but it lasts me through a few hours of use. For the price, I can't complain."
+                ]
+            }
         },
         {
             "id": 10,
@@ -386,10 +409,13 @@
             "category": "laptops",
             "thumbnail": "https://i.pcmag.com/imagery/reviews/063U0wdojZxxDzYhU9PqPtx-1.fit_lim.size_1200x630.v1669065531.jpg",
             "images": [
-                "https://i.dummyjson.com/data/products/10/1.jpg",
-                "https://i.dummyjson.com/data/products/10/2.jpg",
-                "https://i.dummyjson.com/data/products/10/3.jpg",
-                "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+                "https://i.pcmag.com/imagery/reviews/063U0wdojZxxDzYhU9PqPtx-1.fit_lim.size_1200x630.v1669065531.jpg",
+                "https://wapenda.com/wp-content/uploads/2021/07/HP-Pavilion-Gaming-Laptop-at-Wapenda-Limited-2.jpg",
+                "https://i.rtings.com/assets/products/n1ccZOTv/hp-pavilion-gaming-laptop-15-2021/design-medium.jpg"
+            ],
+            "description": [
+                "Dominate the game with the HP Pavilion Gaming Laptop 15-dk1056wm. This powerful machine is packed with an Intel® Core™ i5-10300H processor and NVIDIA® GeForce GTX 1650 Ti graphics, so you can play the latest games at high settings with smooth frame rates. The 15.6-inch Full HD display delivers stunning visuals, while the backlit keyboard ensures comfortable gaming sessions even in low light. And with 8GB of DDR4 RAM and a 256GB PCIe SSD, you'll enjoy fast loading times and snappy multitasking.",
+                "More than just a gaming laptop, the HP Pavilion 15-dk1056wm is also a great choice for creative professionals. The powerful processor and graphics card can handle demanding tasks like video editing and 3D modeling with ease. The large display provides plenty of space to work on multiple projects at once, and the backlit keyboard makes it easy to stay productive in any lighting conditions. And with a long battery life, you can take your work on the go without having to worry about finding an outlet."
             ],
             "spec": {
                 "title": ["CPU", "RAM", "Storage", "Display", "Graphics", "OS", "Size", "Connect Port"],
@@ -477,12 +503,47 @@
             "category": "fragrances",
             "thumbnail": "https://puls-img.chanel.com/1688483382665-oneplpherobannermobile1500x1600pxjpg_1600x1500.jpg",
             "images": [
-                "https://i.dummyjson.com/data/products/12/1.jpg",
-                "https://i.dummyjson.com/data/products/12/2.jpg",
-                "https://i.dummyjson.com/data/products/12/3.png",
-                "https://i.dummyjson.com/data/products/12/4.jpg",
-                "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
-            ]
+                "https://puls-img.chanel.com/1688483382665-oneplpherobannermobile1500x1600pxjpg_1600x1500.jpg",
+                "https://orchard.vn/wp-content/uploads/2017/09/gabrielle-by-chanel-perfume-orchard.vn_-1.jpg",
+                "https://orchard.vn/wp-content/uploads/2019/11/67438310_508457616618766_6386312327549770125_n.jpg"
+            ],
+            "description": [
+                "Unleash your inner Parisian with Gabrielle Chanel, the fragrance that captures the essence of freedom and confidence. This luminous scent explodes with vibrant citrus, dancing with delicate florals like jasmine and ylang-ylang. A warm base of vanilla and musk adds depth and sensuality, leaving an unforgettable trail of allure.",
+                "Embrace your Parisian chic at an incredible price! This limited-time sale invites you to experience the magic of Gabrielle Chanel and add a touch of je ne sais quoi to your life. Don't miss this chance to own a piece of Parisian luxury. Click \"Add to Cart\" today and let Gabrielle Chanel become your signature scent!"
+            ],
+            "spec": {
+                "title": [
+                    "Gender",
+                    "Perfumer",
+                    "Family",
+                    "Year of launch",
+                    "Top notes",
+                    "Heart notes",
+                    "Base notes",
+                    "Longevity"
+                ],
+                "content": [
+                    "Female",
+                    "Olivier Polge",
+                    "Floral Woody",
+                    "2017",
+                    "Grapefruit, Mandarin Orange, Pink Pepper",
+                    "Jasmine, Orange Blossom, Ylang-Ylang",
+                    "Sandalwood, White Musks, Vanilla",
+                    "Moderate (4-6 hours)"
+                ]
+            },
+            "reviews": {
+                "userIDs": [42, 30, 16, 22],
+                "rates": [5, 4, 5, 3],
+                "createdAts": [1678934400000, 1676414400000, 1676328000000, 1673760000000],
+                "texts": [
+                    "An olfactory masterpiece, not a loud bang but a Parisian poem. The citrusy opening bursts sunshine, then delicate florals dance on my skin. The musky base grounds me in warmth and sensuality. It's confidence, femininity, and Parisian flair in a bottle.",
+                    "While Gabrielle CHANEL is elegant, it's not stuffy. The citrus notes are a breath of fresh air, sparkling and invigorating. Light, airy florals make it perfect for daytime wear, brightening and optimistic. However, the longevity could be better – reapplication is needed throughout the day.",
+                    "Reinvents a classic fragrance. It retains Chanel sophistication with unexpected freshness and sensuality. Luxurious jasmine and tuberose mingle with an earthy musk, making me feel like channeling Coco Chanel – powerful, confident, and timeless.",
+                    "I appreciate it's quality and complexity, but it's not quite my cup of tea. The beautiful florals are overpowered by tuberose for my taste. It's a powerful, attention-grabbing scent, better suited for special occasions than everyday wear. The longevity is impressive, but I prefer something lighter for daily use."
+                ]
+            }
         },
         {
             "id": 13,
