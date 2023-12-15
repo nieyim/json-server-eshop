@@ -108,7 +108,6 @@
                 "Unleash epic possibilities with the Samsung Galaxy S21 Ultra 5G. Capture cinematic 8K video with its pro-grade camera, boasting a colossal 108MP sensor and mind-blowing 10x optical zoom. Direct your masterpiece with Director's View, recording from multiple angles simultaneously. Share it instantly with blazing-fast 5G.",
                 "Beyond photography, the S21 Ultra is a gaming and entertainment titan. Immerse yourself in a hyper-smooth 120Hz display, powered by the Exynos 2100 processor and up to 16GB of RAM. Conquer any challenge with a long-lasting 5000mAh battery. It's the ultimate smartphone experience, designed to be epic in every way."
             ],
-
             "spec": {
                 "title": ["Display", "OS", "Rear Cam", "Selfie Cam", "Chipset", "RAM", "Memory", "Battery"],
                 "content": [
@@ -153,7 +152,6 @@
                 "OPPO F22 Pro is a sleek and feature-packed smartphone designed to elevate the user experience. Boasting a 6.44-inch Full HD+ Super AMOLED display, the device delivers vibrant colors and sharp details for an immersive visual experience. The sleek design includes a slim profile and a gradient finish, making the F22 Pro not only powerful but also stylish. The phone's performance is driven by a powerful MediaTek Helio G95 processor, ensuring smooth multitasking and efficient operation. With 8GB of RAM and 128GB of internal storage, the F22 Pro offers ample space for apps, photos, and videos, catering to users who demand both performance and storage capacity.",
                 "Photography enthusiasts will appreciate the versatile quad-camera setup on the OPPO F22 Pro. The 64MP main camera, combined with an 8MP ultra-wide-angle lens and two 2MP sensors for macro and depth, allows users to capture a wide range of scenes with clarity and detail. The 16MP front camera ensures stunning selfies. Additionally, the device features a sizable 4,000mAh battery with 30W VOOC Flash Charge support, keeping users powered throughout the day. In summary, the OPPO F22 Pro combines a sleek design, powerful performance, and a feature-rich camera system, making it an attractive option for users seeking a well-rounded smartphone experience."
             ],
-
             "spec": {
                 "title": ["Display", "OS", "Main Camera", "Selfie Camera", "Chipset", "RAM", "Storage", "Battery"],
                 "content": [
@@ -283,7 +281,6 @@
                 "The Samsung Galaxy Book is a versatile and powerful laptop designed for users seeking a seamless integration of productivity and portability. Available in various models, including the Galaxy Book Pro and Galaxy Book Pro 360, these laptops feature ultra-slim designs and stunning AMOLED displays that bring content to life with vibrant colors and sharp details. The Galaxy Book series is powered by Intel Core processors, ensuring efficient multitasking and smooth performance for a range of applications, from work tasks to entertainment.",
                 "With the Galaxy Book Pro 360, Samsung introduces a 2-in-1 convertible design, allowing users to switch between laptop and tablet modes for added flexibility. The S Pen compatibility further enhances creativity and productivity, making it a versatile tool for note-taking, drawing, and editing. The Galaxy Book series also prioritizes connectivity, featuring Thunderbolt 4 ports, USB-C, and long-lasting battery life to keep users productive throughout the day. In summary, the Samsung Galaxy Book lineup is a testament to Samsung's commitment to delivering powerful, stylish, and versatile laptops that cater to the modern user's diverse needs."
             ],
-
             "spec": {
                 "title": ["CPU", "RAM", "Storage", "Display", "Graphics", "OS", "Size & Weight", "Connectivity"],
                 "content": [
@@ -400,16 +397,16 @@
         {
             "id": 10,
             "title": "HP Pavilion 15-DK1056WM",
-            "summary": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+            "summary": "For the gamer who demands both power and style, the HP Pavilion 15-DK1056wm reigns supreme. This sleek machine packs a punch with its Intel® Core™ i5-10300H processor and NVIDIA® GeForce GTX 1650 Ti graphics, letting you dominate even the most demanding games at high settings and smooth frame rates.",
             "price": 1099,
             "discountPercentage": 6,
             "rating": 4.43,
             "stock": 89,
             "brand": "HP Pavilion",
             "category": "laptops",
-            "thumbnail": "https://i.pcmag.com/imagery/reviews/063U0wdojZxxDzYhU9PqPtx-1.fit_lim.size_1200x630.v1669065531.jpg",
+            "thumbnail": "https://pemmzchannel.com/wp-content/uploads/2022/02/HP-Pavilion-Gaming-15_5.jpg",
             "images": [
-                "https://i.pcmag.com/imagery/reviews/063U0wdojZxxDzYhU9PqPtx-1.fit_lim.size_1200x630.v1669065531.jpg",
+                "https://pemmzchannel.com/wp-content/uploads/2022/02/HP-Pavilion-Gaming-15_5.jpg",
                 "https://wapenda.com/wp-content/uploads/2021/07/HP-Pavilion-Gaming-Laptop-at-Wapenda-Limited-2.jpg",
                 "https://i.rtings.com/assets/products/n1ccZOTv/hp-pavilion-gaming-laptop-15-2021/design-medium.jpg"
             ],
@@ -494,7 +491,7 @@
         {
             "id": 12,
             "title": "Gabrielle CHANEL Paris",
-            "summary": "Bath and body products prolong the composition’s floral, solar trail - 120ml",
+            "summary": "Gabrielle Chanel is a luminous fragrance that captures the essence of a free and confident woman. Inspired by Mademoiselle Chanel herself, this captivating blend of radiant florals and sparkling citrus leaves a trail of unforgettable allure.",
             "price": 105,
             "discountPercentage": 0,
             "rating": 4,
@@ -534,10 +531,10 @@
                 ]
             },
             "reviews": {
-                "userIDs": [42, 30, 16, 22],
-                "rates": [5, 4, 5, 3],
-                "createdAts": [1678934400000, 1676414400000, 1676328000000, 1673760000000],
-                "texts": [
+                "userID": [42, 30, 16, 22],
+                "rate": [5, 4, 5, 3],
+                "createdAt": [1678934400000, 1676414400000, 1676328000000, 1673760000000],
+                "text": [
                     "An olfactory masterpiece, not a loud bang but a Parisian poem. The citrusy opening bursts sunshine, then delicate florals dance on my skin. The musky base grounds me in warmth and sensuality. It's confidence, femininity, and Parisian flair in a bottle.",
                     "While Gabrielle CHANEL is elegant, it's not stuffy. The citrus notes are a breath of fresh air, sparkling and invigorating. Light, airy florals make it perfect for daytime wear, brightening and optimistic. However, the longevity could be better – reapplication is needed throughout the day.",
                     "Reinvents a classic fragrance. It retains Chanel sophistication with unexpected freshness and sensuality. Luxurious jasmine and tuberose mingle with an earthy musk, making me feel like channeling Coco Chanel – powerful, confident, and timeless.",
@@ -547,7 +544,7 @@
         },
         {
             "id": 13,
-            "title": "Fog Scent Xpressio Perfume",
+            "title": "Fogg Scent Xpressio Perfume",
             "summary": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
             "price": 13,
             "discountPercentage": 8,
@@ -557,12 +554,35 @@
             "category": "fragrances",
             "thumbnail": "https://m.media-amazon.com/images/S/aplus-media/vc/4e0a3d69-6ac7-4413-934a-d645dad6a43f.__CR0,0,970,600_PT0_SX970_V1___.jpg",
             "images": [
-                "https://i.dummyjson.com/data/products/13/1.jpg",
-                "https://i.dummyjson.com/data/products/13/2.png",
-                "https://i.dummyjson.com/data/products/13/3.jpg",
-                "https://i.dummyjson.com/data/products/13/4.jpg",
-                "https://i.dummyjson.com/data/products/13/thumbnail.webp"
-            ]
+                "https://m.media-amazon.com/images/S/aplus-media/vc/4e0a3d69-6ac7-4413-934a-d645dad6a43f.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+                "https://pbs.twimg.com/media/C5LnV9TWIAAjT_d.jpg",
+                "https://m.media-amazon.com/images/I/61dI9GZqaQL.jpg"
+            ],
+
+            "description": [
+                "Fogg Scent Xpressio Deodorant unleashes a powerful surge of freshness that keeps you confident all day long. Its invigorating citrus blend awakens your senses, while the subtle woody notes leave a lasting impression. Formulated with odor-fighting technology, it provides long-lasting protection against sweat and odor, keeping you feeling fresh and dry.",
+                "Don't let sweat and odor hold you back. Fogg Scent Xpressio Deodorant is your ultimate weapon for staying confident and comfortable throughout the day. Experience its refreshing aroma and superior protection, and let your confidence shine through."
+            ],
+            "spec": {
+                "title": ["Gender", "Type", "Scent", "Key Ingredients", "Benefits", "Longevity", "Size"],
+                "content": [
+                    "Male",
+                    "Deodorant Stick",
+                    "Citrus Woody",
+                    "Citrus Blend, Sandalwood, Cedarwood",
+                    "Odor protection, Sweat control, Freshness",
+                    "Up to 48 hours",
+                    "75g (2.6 oz)"
+                ]
+            },
+            "reviews": {
+                "userID": [28],
+                "rate": [4],
+                "createdAt": [1678934400000],
+                "text": [
+                    "Fogg Scent Xpressio is my new go-to deodorant. The citrus scent is really invigorating, and it definitely keeps me feeling fresh and confident throughout the day. I also appreciate the long-lasting protection – it's one less thing to worry about."
+                ]
+            }
         },
         {
             "id": 14,
@@ -10539,10 +10559,33 @@
                     "https://i.dummyjson.com/data/products/80/thumbnail.jpg"
                 ]
             },
-            "quantity": 3,
+            "quantity": 4,
             "createdAt": 1702543935863,
             "id": 12,
-            "updatedAt": 1702544095967
+            "updatedAt": 1702605370630
+        },
+        {
+            "products": {
+                "id": 32,
+                "title": "Ashley Furniture Sectional Sofa",
+                "summary": " It features plush cushions and a stylish design, making it perfect for lounging and entertaining.",
+                "price": 1162,
+                "discountPercentage": 0,
+                "rating": 4.74,
+                "stock": 30,
+                "brand": "Ashley Furniture",
+                "category": "furniture",
+                "thumbnail": "https://raleysfurniture.com/cdn/shop/products/70200-16-67-SD_207b07d8-a755-4bb8-a3df-7a70c1626794_1024x1024.jpg?v=1596473018",
+                "images": [
+                    "https://i.dummyjson.com/data/products/32/1.jpg",
+                    "https://i.dummyjson.com/data/products/32/2.jpg",
+                    "https://i.dummyjson.com/data/products/32/3.jpg",
+                    "https://i.dummyjson.com/data/products/32/thumbnail.jpg"
+                ]
+            },
+            "quantity": 1,
+            "createdAt": 1702605384527,
+            "id": 13
         }
     ]
 }
