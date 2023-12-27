@@ -558,7 +558,6 @@
                 "https://pbs.twimg.com/media/C5LnV9TWIAAjT_d.jpg",
                 "https://m.media-amazon.com/images/I/61dI9GZqaQL.jpg"
             ],
-
             "description": [
                 "Fogg Scent Xpressio Deodorant unleashes a powerful surge of freshness that keeps you confident all day long. Its invigorating citrus blend awakens your senses, while the subtle woody notes leave a lasting impression. Formulated with odor-fighting technology, it provides long-lasting protection against sweat and odor, keeping you feeling fresh and dry.",
                 "Don't let sweat and odor hold you back. Fogg Scent Xpressio Deodorant is your ultimate weapon for staying confident and comfortable throughout the day. Experience its refreshing aroma and superior protection, and let your confidence shine through."
@@ -587,7 +586,7 @@
         {
             "id": 14,
             "title": "Non-Alcoholic Concentrated Perfume Oil",
-            "summary": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+            "summary": "Immerse yourself in the luxurious world of fragrance without alcohol with Non-Alcoholic Concentrated Perfume Oil. These potent elixirs are crafted using the finest essential oils and absolutes, delivering an intense and long-lasting fragrance experience that's kind to your skin and the environment.",
             "price": 120,
             "discountPercentage": 15,
             "rating": 3.67,
@@ -596,16 +595,39 @@
             "category": "fragrances",
             "thumbnail": "https://mushkmahal.com/cdn/shop/products/5_a2c71ca1-e678-45c9-b1c3-56110ebd069b_grande.jpg?v=1682003157",
             "images": [
-                "https://i.dummyjson.com/data/products/14/1.jpg",
-                "https://i.dummyjson.com/data/products/14/2.jpg",
-                "https://i.dummyjson.com/data/products/14/3.jpg",
-                "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
-            ]
+                "https://mushkmahal.com/cdn/shop/products/5_a2c71ca1-e678-45c9-b1c3-56110ebd069b_grande.jpg?v=1682003157",
+                "https://mushkmahal.com/cdn/shop/products/5_93d3277d-21c5-4527-8e8d-5af938f16c6e_grande.png?v=1669356021",
+                "https://mushkmahal.com/cdn/shop/products/03_b29c8c53-c435-443b-a22f-9c3af01ce31f_grande.jpg?v=1682000286"
+            ],
+            "description": [
+                "Ditch the drying alcohol and harsh chemicals, and embrace the gentle purity of concentrated perfume oil. These potent elixirs are crafted using the finest essential oils and absolutes, delivering an intense and long-lasting fragrance experience that's kind to your skin and the environment.",
+                "Non-Alcoholic Concentrated Perfume Oil is the perfect choice for the modern fragrance enthusiast who seeks a luxurious, natural, and sustainable way to scent their world."
+            ],
+            "spec": {
+                "title": ["Type", "Scent Profile", "Key Ingredients", "Benefits", "Application", "Size"],
+                "content": [
+                    "Perfume Oil",
+                    "Citrus, Woody, Musky, or Floral (depending on variety)",
+                    "Essential oils, Absolutes, Carrier oils",
+                    "Long-lasting fragrance, Gentle on skin, Natural & alcohol-free",
+                    "Apply a small drop to pulse points like wrists, neck, and inner elbows",
+                    "5ml, 10ml, or 15ml (depending on variety)"
+                ]
+            },
+            "reviews": {
+                "userID": [28, 38],
+                "rate": [4, 5],
+                "createdAt": [1678934400000, 1679542400000],
+                "text": [
+                    "This non-alcoholic perfume oil is amazing! The scent is so natural and beautiful, and it lasts all day long. I love that it's gentle on my skin and doesn't contain any harsh chemicals.",
+                    "I used to be hesitant to try perfume oils, but this one has converted me! The scent is divine, and it makes me feel so luxurious. Plus, it's so convenient to carry around in my purse for touch-ups throughout the day."
+                ]
+            }
         },
         {
             "id": 15,
             "title": "Gucci Bloom",
-            "summary": "Think of it as a light, soft, timeless option.",
+            "summary": "Immerse yourself in a lush floral paradise with Gucci Bloom Acqua Di Fiori, a captivating fragrance that celebrates the beauty of nature and the spirit of individuality. This iconic scent, crafted by Master Perfumer Alberto Morillas, is an ode to femininity in all its vibrant forms.",
             "price": 30,
             "discountPercentage": 7,
             "rating": 4.7,
@@ -614,36 +636,83 @@
             "category": "fragrances",
             "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/210203182253-perfume-gucci-bloom-eau-de-parfum.jpg?q=x_0,y_0,h_956,w_1698,c_fill/h_720,w_1280",
             "images": [
-                "https://i.dummyjson.com/data/products/15/1.jpg",
-                "https://i.dummyjson.com/data/products/15/2.jpg",
-                "https://i.dummyjson.com/data/products/15/3.jpg",
-                "https://i.dummyjson.com/data/products/15/4.jpg",
-                "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
-            ]
+                "https://media.cnn.com/api/v1/images/stellar/prod/210203182253-perfume-gucci-bloom-eau-de-parfum.jpg?q=x_0,y_0,h_956,w_1698,c_fill/h_720,w_1280",
+                "https://bizweb.dktcdn.net/100/173/407/files/295652439-3252989308317198-4151226277805678749-n.jpg?v=1674594410424",
+                "https://bdperfume.vn/wp-content/uploads/2023/02/Nuoc-Hoa-Nu-Gucci-Bloom-Eau-de-Toilette-2.webp"
+            ],
+            "description": [
+                "Gucci Bloom is a captivating and modern fragrance that embodies the essence of contemporary femininity. Launched by the iconic Italian luxury fashion house, Gucci, this fragrance is a celebration of the diverse facets of womanhood. With its floral and alluring composition, Gucci Bloom unfolds like a blooming garden, creating a sensorial experience that is both vibrant and sophisticated. The perfume opens with a burst of delicate and crisp notes of jasmine bud, tuberose, and Rangoon creeper, creating an intoxicating and lush floral bouquet. The heart of the fragrance reveals a harmonious blend of these exquisite flowers, while the base notes of orris root and white musk add a subtle and lingering depth, leaving a memorable trail that is both elegant and timeless.",
+                "Gucci Bloom is not merely a perfume; it is a statement of empowerment and individuality. The scent captures the spirit of the modern woman who is confident, expressive, and unapologetically herself. The sleek and minimalist bottle design, adorned with a vintage-inspired pink label and a textured black cap, reflects the timeless elegance associated with the Gucci brand. With its ability to seamlessly blend tradition and innovation, Gucci Bloom is a fragrance that transcends trends, making it a timeless addition to the olfactory wardrobe of those who appreciate the artistry of perfumery and the allure of floral beauty."
+            ],
+            "spec": {
+                "title": ["Gender", "Key Notes", "Heart Notes", "Base Notes", "Benefits", "Size"],
+                "content": [
+                    "Female",
+                    "Tuberose, Jasmine Sambac, Rangoon Creeper",
+                    "May Rose, Damask Rose, Centifolia Rose",
+                    "Sandalwood, Musk, Orris Root",
+                    "Long-lasting fragrance, Luxurious scent, Creates a radiant aura",
+                    "30ml, 50ml, 100ml"
+                ]
+            },
+            "reviews": {
+                "userID": [12, 30],
+                "rate": [4.5, 4],
+                "createdAt": [1678905600000, 1679513600000],
+                "text": [
+                    "Gucci Bloom is my signature scent! It's like wearing a bouquet of the most beautiful flowers, and it makes me feel so feminine and confident. I get compliments on it all the time.",
+                    "This perfume is so unique and fresh. It's not your typical floral scent, but it's still incredibly beautiful. I love that it's not too heavy, and it lasts all day long."
+                ]
+            }
         },
         {
             "id": 16,
             "title": "Hyaluronic Acid Serum",
-            "summary": "The Ordinary introduces Hyaluron Expert Replumping Serum formulated with 2% Hyaluronic Acid",
+            "summary": "The Ordinary Hyaluronic Acid 2% + B5 Serum by The Ordinary is a potent blend of hyaluronic acid and vitamin B5, delivering intense hydration and soothing benefits to the skin. With a lightweight texture suitable for all skin types, this serum promotes a smoother, suppler complexion, making it an affordable and effective solution for achieving plump, youthful, and radiant skin.",
             "price": 9.99,
             "discountPercentage": 5,
             "rating": 4.83,
             "stock": 110,
             "brand": "The Ordinary",
             "category": "skincare",
+            "description": [
+                "The Ordinary Hyaluronic Acid 2% + B5 Serum is a skincare essential renowned for its effective hydration and plumping properties. Developed by the popular skincare brand, The Ordinary, this serum combines the potent benefits of hyaluronic acid and vitamin B5 to address and nourish the skin's moisture needs. Hyaluronic acid, a naturally occurring substance in the skin, is a powerful humectant that attracts and retains water, providing intense hydration to the skin. The 2% concentration of hyaluronic acid in this serum works to boost the skin's moisture content, promoting a smoother and more supple complexion.",
+                "In addition to hyaluronic acid, The Ordinary's formulation includes vitamin B5, also known as panthenol, which enhances the moisturizing effects of the serum. Vitamin B5 is celebrated for its soothing and anti-inflammatory properties, contributing to the overall health and resilience of the skin. The lightweight and easily-absorbed texture of the serum makes it suitable for all skin types, and its versatile nature allows it to be seamlessly integrated into any skincare routine. The Ordinary Hyaluronic Acid 2% + B5 Serum is a go-to solution for individuals seeking a reliable and affordable hydrating serum to achieve a plump, youthful, and radiant complexion."
+            ],
             "thumbnail": "https://bizweb.dktcdn.net/100/345/186/files/serum-the-ordinary-2-hyaluronic-acid-b5-4.jpg?v=1572853638443",
             "images": [
-                "https://i.dummyjson.com/data/products/16/1.png",
-                "https://i.dummyjson.com/data/products/16/2.webp",
-                "https://i.dummyjson.com/data/products/16/3.jpg",
-                "https://i.dummyjson.com/data/products/16/4.jpg",
-                "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
-            ]
+                "https://bizweb.dktcdn.net/100/345/186/files/serum-the-ordinary-2-hyaluronic-acid-b5-4.jpg?v=1572853638443",
+                "https://chuanauthentic.com/wp-content/uploads/2023/10/tinh-chat-serum-the-ordinary-hyaluronic-acid-2-b5-30ml.jpg",
+                "https://product.hstatic.net/1000379579/product/review-the-ordinary-hyaluronic-acid-b5-serum-14_55ce7f21b45247d2a51925b864e0488c_master.jpg"
+            ],
+            "spec": {
+                "title": ["Formula Type", "Key Ingredients", "Skin Concerns", "Benefits", "Size", "pH Level"],
+                "content": [
+                    "Water-based",
+                    "Hyaluronic Acid 2%, Vitamin B5",
+                    "Dehydration, Fine lines, Dryness",
+                    "Intense hydration, Plumping, Improved skin texture",
+                    "30ml",
+                    "4.0 - 5.0"
+                ]
+            },
+            "reviews": {
+                "userID": [24, 37, 10, 5, 18],
+                "rate": [5, 4.5, 4, 3.5, 5],
+                "createdAt": [1678934400000, 1679542400000, 1679260800000, 1678848000000, 1679155200000],
+                "text": [
+                    "This serum is a game-changer! My skin feels incredibly hydrated and plumped since I started using it. The texture is lightweight and absorbs quickly, and it doesn't clog my pores. Highly recommend!",
+                    "I love that this serum is so affordable and effective. It's helped to reduce the appearance of my fine lines and my skin feels so much smoother. I use it twice a day and it works great under makeup.",
+                    "This serum is definitely hydrating, but I found it a bit sticky at first. I think it takes a little getting used to the texture, but overall I'm happy with the results.",
+                    "My skin is very sensitive, and this serum didn't irritate it at all. It's gentle but still effective, and I've noticed a difference in my skin's hydration levels.",
+                    "I really like the simplicity of this serum. It has just a few key ingredients and it does exactly what it claims to do. My skin feels refreshed and dewy after using it."
+                ]
+            }
         },
         {
             "id": 17,
             "title": "Olay Total Effect Night Cream 7 in 1",
-            "summary": "Cream contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+            "summary": "Olay Total Effects Night Cream 7 in 1 is a powerful anti-aging solution designed to address multiple signs of aging. With a rich and luxurious texture, it deeply hydrates the skin, targeting fine lines, wrinkles, and uneven tone. Packed with vitamins and antioxidants, this night cream supports the skin's natural regeneration process, leaving you with a refreshed and more youthful appearance each morning.",
             "price": 16.49,
             "discountPercentage": 25,
             "rating": 4.52,
@@ -651,6 +720,10 @@
             "brand": "Olay",
             "category": "skincare",
             "thumbnail": "https://www.hangngoainhap.com.vn/images/upload/Image/My-pham/kem-duong-da/kem-duong-da-ban-dem-olay-total-effect-night-cream-7-in-2.jpg",
+            "description": [
+                "Olay Total Effects Night Cream 7 in 1 is a comprehensive skincare solution designed to address multiple signs of aging and nourish the skin during its overnight regeneration process. Developed by the renowned skincare brand Olay, this night cream is formulated with a powerful blend of vitamins and antioxidants. The 7-in-1 formula targets various skin concerns, including fine lines, wrinkles, uneven tone, and texture, as well as providing essential moisture and promoting a more youthful appearance. The cream's rich and luxurious texture ensures deep hydration, allowing the skin to wake up refreshed and rejuvenated.",
+                "The key ingredients in Olay Total Effects Night Cream include niacinamide (Vitamin B3) and antioxidants, which work together to strengthen the skin's natural barrier, enhance firmness, and promote a more even skin tone. The night cream is designed to be applied before bedtime, allowing the skin to absorb its nourishing benefits throughout the night. As part of the Total Effects line, this night cream exemplifies Olay's commitment to delivering a comprehensive anti-aging solution, making it a convenient and effective addition to any nightly skincare routine for those looking to combat the signs of aging."
+            ],
             "images": [
                 "https://www.hangngoainhap.com.vn/images/upload/Image/My-pham/kem-duong-da/kem-duong-da-ban-dem-olay-total-effect-night-cream-7-in-2.jpg",
                 "https://www.hangngoainhap.com.vn/images/upload/Image/My-pham/kem-duong-da/kem-duong-da-ban-dem-olay-total-effect-night-cream-7-in-9.jpg",
@@ -681,7 +754,7 @@
         {
             "id": 18,
             "title": "Oil Free Moisturizer 100ml",
-            "summary": "Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+            "summary": "The Oil-Free Moisturizer in a 100ml size is a lightweight solution for oily or combination skin. Formulated without added oils, it provides effective hydration without a greasy feel, leaving the skin soft and revitalized. Ideal for daily use, its generous size ensures long-lasting nourishment for those seeking a practical and non-greasy moisturizing option.",
             "price": 29.8,
             "discountPercentage": 0,
             "rating": 4.56,
@@ -690,12 +763,32 @@
             "category": "skincare",
             "thumbnail": "https://shop.thetweakmentsguide.com/wp-content/uploads/2020/08/paulas-choice-oil-free-moisturizer-01.jpg",
             "images": [
-                "https://i.dummyjson.com/data/products/18/1.jpg",
-                "https://i.dummyjson.com/data/products/18/2.jpg",
-                "https://i.dummyjson.com/data/products/18/3.jpg",
-                "https://i.dummyjson.com/data/products/18/4.jpg",
-                "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
-            ]
+                "https://shop.thetweakmentsguide.com/wp-content/uploads/2020/08/paulas-choice-oil-free-moisturizer-01.jpg",
+                "https://paulaschoice.vn/wp-content/uploads/2019/08/3800-171221-anh-1.jpg",
+                "https://www.sephora.com/contentimages/VideoImagesNEW/022321/CLEAR%20Oil-Free%20Moisturizer%20by%20Paula's%20Choice.png"
+            ],
+            "description": [
+                "The Oil-Free Moisturizer, available in a generous 100ml size, is a lightweight and hydrating skincare essential crafted to provide a nourishing experience without the heaviness of added oils. This moisturizer is specifically formulated to cater to individuals with oily or combination skin types, offering a balance between effective hydration and a non-greasy finish. The absence of oils in the formula makes it ideal for those prone to breakouts or excess shine, ensuring a comfortable and matte complexion throughout the day.",
+                "Perfect for daily use, the Oil-Free Moisturizer is absorbed quickly into the skin, leaving it feeling soft, supple, and revitalized. Whether used alone or as a base for makeup, the moisturizer serves as a reliable ally in maintaining a healthy skin barrier. Its 100ml size provides ample product for extended use, making it a practical choice for those seeking a hydrating solution that caters to the unique needs of oilier skin types."
+            ],
+            "spec": {
+                "title": ["Skin Type", "Key Ingredients", "Benefits", "Texture", "Size"],
+                "content": [
+                    "Oily, Combination, Acne-prone",
+                    "Hyaluronic Acid, Vitamin E, Aloe Vera",
+                    "Hydrates without clogging pores, Controls shine, Soothes and calms skin, Lightweight, non-greasy",
+                    "100ml"
+                ]
+            },
+            "reviews": {
+                "userID": [19, 42],
+                "rate": [5, 4],
+                "createdAt": [1678934400000, 1679542400000],
+                "text": [
+                    "This oil-free moisturizer is a lifesaver! It keeps my skin hydrated without making it greasy, and it's helped to control my shine and breakouts. It's lightweight and absorbs quickly, making it perfect for under makeup.",
+                    "I was hesitant to try this moisturizer because I have very oily skin, but I'm so glad I did! It's gentle on my skin and doesn't irritate it at all. My skin feels hydrated and balanced, and my makeup stays on longer. I would definitely recommend this to anyone with oily skin."
+                ]
+            }
         },
         {
             "id": 19,
@@ -709,11 +802,35 @@
             "category": "skincare",
             "thumbnail": "https://ipek.vn/Uploads/images/anh_bai_viet/review-bong-tay-trang-ipek-san-pham-quoc-dan-duoc-chi-em-yeu-thich.jpg",
             "images": [
-                "https://i.dummyjson.com/data/products/19/1.jpg",
-                "https://i.dummyjson.com/data/products/19/2.jpg",
-                "https://i.dummyjson.com/data/products/19/3.png",
-                "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
-            ]
+                "https://ipek.vn/Uploads/images/anh_bai_viet/review-bong-tay-trang-ipek-san-pham-quoc-dan-duoc-chi-em-yeu-thich.jpg",
+                "https://product.hstatic.net/200000150709/product/bong-tay-trang-ipek-klasik-1_f616f226ab5b48609277047d68c62ac2.jpg",
+                "https://product.hstatic.net/1000379579/product/z3525008604937_67dc9f04134d628da106d96e1a1eafcd_41fb801d797a4f2885514b2e4f814af9_master.jpg"
+            ],
+            "description": [
+                "Ipek Klasik Cotton Pads are a staple in skincare and beauty routines, offering a soft and gentle way to apply and remove various cosmetic products. Made from high-quality, 100% pure cotton, these pads provide a luxurious and indulgent experience for users. The dual-sided design ensures versatility, with one side being smooth for gentle application of toners, serums, or makeup, while the other textured side is perfect for effective and thorough cleansing or removing stubborn makeup. The softness of the cotton ensures a comfortable and pampering touch on the skin, making these pads a must-have accessory for anyone seeking a premium and reliable option in their daily skincare regimen.",
+                "These cotton pads come in a conveniently large and resealable packaging, making them easy to store and ensuring they stay fresh for prolonged use. Whether you're indulging in a comprehensive skincare routine or simply need a reliable tool for makeup application and removal, Ipek Klasik Cotton Pads offer an exceptional blend of quality and functionality, elevating your daily beauty rituals to a luxurious and soothing experience."
+            ],
+            "spec": {
+                "title": ["Material", "Texture", "Features", "Uses", "Size"],
+                "content": [
+                    "100% Pure Cotton",
+                    "Soft & absorbent",
+                    "Lint-free, Hypoallergenic, Biodegradable",
+                    "Cleansing, Toning, Applying skincare products",
+                    "80, 130, 150 pads"
+                ]
+            },
+            "reviews": {
+                "userID": [15, 36, 37, 33],
+                "rate": [5, 4.5, 4, 3.5],
+                "createdAt": [1678934400000, 1679542400000, 1679260800000, 1678848000000],
+                "text": [
+                    "These cotton pads are the best! They're so soft and gentle on my skin, even when I'm removing makeup. I love that they're lint-free and don't leave any residue behind. I also appreciate that they're biodegradable.",
+                    "Ipek Klasik Cotton Pads are my go-to for cleansing and toning. They're absorbent enough to remove makeup and impurities without being harsh on my skin. They're also a great size for applying skincare products.",
+                    "These cotton pads are good for the price, but I find them a bit thin sometimes. They work well for cleansing, but I wouldn't use them for applying heavier products like serums or creams.",
+                    "I like that these cotton pads are gentle and hypoallergenic, but I wish they were a bit thicker. They work fine for light makeup removal, but I wouldn't use them for heavier makeup."
+                ]
+            }
         },
         {
             "id": 20,
@@ -727,17 +844,38 @@
             "category": "skincare",
             "thumbnail": "https://image.missbeautykorea.com/uploads/contentsImages/products/b2cf6629d1d26b93a14546dac566ba40.jpg",
             "images": [
-                "https://i.dummyjson.com/data/products/20/1.jpg",
-                "https://i.dummyjson.com/data/products/20/2.jpg",
-                "https://i.dummyjson.com/data/products/20/3.jpg",
-                "https://i.dummyjson.com/data/products/20/4.jpg",
-                "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
-            ]
+                "https://image.missbeautykorea.com/uploads/contentsImages/products/b2cf6629d1d26b93a14546dac566ba40.jpg",
+                "https://shopichigo.com/wp-content/uploads/2020/05/Innisfree-the-Minimum-Sunscreen-how-to-use.jpg",
+                "https://www.cinddie.com/wp-content/uploads/2017/05/Innisfree-the-minimum-baby-sun-cream-2.jpg"
+            ],
+            "description": [
+                "Innisfree Tone Up No Sebum Sunscreen is a multifunctional sunscreen that goes beyond sun protection to enhance the overall complexion. Developed by the popular Korean skincare brand Innisfree, this sunscreen combines the benefits of sun protection with a tone-up effect, delivering a brightening and mattifying finish to the skin. The \"No Sebum\" feature ensures that the sunscreen effectively controls excess oil and shine throughout the day, making it particularly suitable for individuals with oily or combination skin types.",
+                "The lightweight and non-sticky formula of Innisfree Tone Up No Sebum Sunscreen makes it easy to apply and comfortable to wear, making it an ideal choice for daily use. The tone-up effect helps even out the skin tone and gives a natural, radiant glow, serving as a versatile base for makeup application. With broad-spectrum SPF protection, this sunscreen shields the skin from harmful UVA and UVB rays, making it an essential step in any skincare routine for those looking to maintain a healthy and luminous complexion while safeguarding against sun damage."
+            ],
+            "spec": {
+                "title": ["SPF Rating", "PA Rating", "Skin Type", "Texture", "Benefits"],
+                "content": [
+                    "50+",
+                    "++++",
+                    "All Skin Types, especially Oily & Combination",
+                    "Lightweight, Matte Finish",
+                    "Protects against UVA & UVB rays, Minimizes shine & controls sebum, Evens skin tone, Hydrates & soothes skin"
+                ]
+            },
+            "reviews": {
+                "userID": [31, 48],
+                "rate": [4.5, 5],
+                "createdAt": [1678934400000, 1679542400000],
+                "text": [
+                    "This sunscreen is a game-changer! It provides excellent sun protection, controls oil throughout the day, and gives my skin a natural, even tone. The matte finish is perfect for my oily skin and it doesn't clog my pores. Highly recommend!",
+                    "I love that this sunscreen doesn't make my skin greasy or cakey. It absorbs quickly and feels lightweight on my skin. I also appreciate the added benefit of tone-up, which means I can skip a foundation step on some days. Overall, this is my new favorite sunscreen!"
+                ]
+            }
         },
         {
             "id": 21,
             "title": "Nutella Hazelnut Spread",
-            "summary": "Fine quality Branded Product Keep in a cool and dry place",
+            "summary": "Nutella Hazelnut Spread, crafted by Ferrero, is a globally beloved chocolate-hazelnut delight with a creamy texture and rich flavor. Perfect for spreading on toast or incorporating into recipes, Nutella's sweet and nutty goodness has made it a versatile and timeless favorite around the world.",
             "price": 7.81,
             "discountPercentage": 0,
             "rating": 4.44,
@@ -746,15 +884,38 @@
             "category": "groceries",
             "thumbnail": "https://m.media-amazon.com/images/I/811UAAn-SKL.jpg",
             "images": [
-                "https://i.dummyjson.com/data/products/21/1.png",
-                "https://i.dummyjson.com/data/products/21/2.jpg",
-                "https://i.dummyjson.com/data/products/21/3.jpg"
-            ]
+                "https://m.media-amazon.com/images/I/811UAAn-SKL.jpg",
+                "https://cheapandcheerfulcooking.com/wp-content/uploads/2021/03/vegan-nutella-hazelnut-spread-with-cocoa-1.jpg",
+                "https://parischezsharon.com/wp-content/uploads/2021/04/PARISCHEZSHARON-1595-3-scaled.jpg"
+            ],
+            "description": [
+                "Nutella Hazelnut Spread is a beloved and iconic chocolate-hazelnut spread that has captured the hearts and taste buds of people around the world. Created by the Italian brand Ferrero, Nutella is renowned for its luscious and creamy texture, combining the rich flavors of roasted hazelnuts and smooth chocolate. Whether spread on toast, drizzled over pancakes, or used as a versatile ingredient in baking and dessert recipes, Nutella adds a delightful sweetness and nutty richness to a variety of dishes.",
+                "The distinctive blend of high-quality ingredients, including sugar, palm oil, hazelnuts, cocoa solids, and milk powder, results in a delectable and indulgent treat. Nutella has become a pantry staple for many, cherished not only for its irresistible taste but also for its versatility and ability to elevate simple snacks into delightful culinary experiences. Whether enjoyed as a comforting breakfast spread or used as a creative ingredient in culinary endeavors, Nutella continues to be a beloved and timeless treat that brings joy to people of all ages."
+            ],
+            "spec": {
+                "title": ["Ingredients", "Texture", "Flavor Profile", "Serving Suggestions", "Size"],
+                "content": [
+                    "Sugar, Hazelnuts (13%), Cocoa (5.1%), Skimmed Milk Powder, Palm Oil, Whey Powder, Lecithin, Vanillin",
+                    "Creamy, Smooth",
+                    "Chocolatey, Hazelnutty",
+                    "Spread on bread, toast, waffles, pancakes, fruits, cookies, use in baking recipes",
+                    "200g, 400g, 750g"
+                ]
+            },
+            "reviews": {
+                "userID": [15, 44],
+                "rate": [4.5, 5],
+                "createdAt": [1678934400000, 1679542400000],
+                "text": [
+                    "Nutella is a classic for a reason! The creamy texture and delicious chocolate-hazelnut flavor are simply irresistible. I love spreading it on toast for breakfast, but it's also great on waffles, pancakes, and even apples. It's a versatile treat that the whole family enjoys.",
+                    "Nutella is pure happiness in a jar! It's my go-to snack when I need something sweet and satisfying. The rich chocolate and nutty flavor is so addictive, and I love the smooth, creamy texture. It's also surprisingly versatile - I use it in baking recipes and even for dipping fruits. Definitely a pantry staple for me!"
+                ]
+            }
         },
         {
             "id": 22,
             "title": "Kellogg's Corn Flakes",
-            "summary": "Classic breakfast cereal made from crisp, golden flakes of corn",
+            "summary": "Classic breakfast cereal made from crisp, golden flakes of corn for fast breakfast preparation.",
             "price": 2,
             "discountPercentage": 50,
             "rating": 4.57,
@@ -8377,6 +8538,14 @@
             "ein": "98-7654321",
             "ssn": "543-21-9876",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        },
+        {
+            "username": "anhhoangmeo",
+            "password": "Chuyenmavumap1!",
+            "firstName": "hoang",
+            "lastName": "meo",
+            "createdAt": 1703653495914,
+            "id": 102
         }
     ],
     "categories": [
@@ -10566,26 +10735,49 @@
         },
         {
             "products": {
-                "id": 32,
-                "title": "Ashley Furniture Sectional Sofa",
-                "summary": " It features plush cushions and a stylish design, making it perfect for lounging and entertaining.",
-                "price": 1162,
+                "id": 68,
+                "title": "Citizen L Sunrise Diamond",
+                "summary": "This two-tone watch features diamond accents on the dial, adding a touch of luxury to your wrist",
+                "price": 317,
                 "discountPercentage": 0,
-                "rating": 4.74,
-                "stock": 30,
-                "brand": "Ashley Furniture",
-                "category": "furniture",
-                "thumbnail": "https://raleysfurniture.com/cdn/shop/products/70200-16-67-SD_207b07d8-a755-4bb8-a3df-7a70c1626794_1024x1024.jpg?v=1596473018",
+                "rating": 4.55,
+                "stock": 77,
+                "brand": "Citizen",
+                "category": "womens-watches",
+                "thumbnail": "https://passionwatch.vn/wp-content/uploads/2022/04/Dong-ho-Citizen-EM0324-58D-3.jpg",
                 "images": [
-                    "https://i.dummyjson.com/data/products/32/1.jpg",
-                    "https://i.dummyjson.com/data/products/32/2.jpg",
-                    "https://i.dummyjson.com/data/products/32/3.jpg",
-                    "https://i.dummyjson.com/data/products/32/thumbnail.jpg"
+                    "https://i.dummyjson.com/data/products/68/1.jpg",
+                    "https://i.dummyjson.com/data/products/68/2.jpg"
                 ]
             },
-            "quantity": 1,
-            "createdAt": 1702605384527,
-            "id": 13
+            "quantity": 2,
+            "createdAt": 1703648250404,
+            "id": 13,
+            "updatedAt": 1703650378890
+        },
+        {
+            "products": {
+                "id": 43,
+                "title": "Dior Haute Couture Ball Gown",
+                "summary": "A stunning, custom-made ball gown with intricate craftsmanship and luxurious materials",
+                "price": 97.5,
+                "discountPercentage": 0,
+                "rating": 4.31,
+                "stock": 150,
+                "brand": "Dior",
+                "category": "womens-dresses",
+                "thumbnail": "https://media.vogue.fr/photos/5c360f8b7c9e43aabe28d776/16:9/w_1920,h_1080,c_limit/dior2_chiara_ferragni_grandssalons_vogueint_johan_sandberg_jpg_4187.jpg?lang=eng",
+                "images": [
+                    "https://i.dummyjson.com/data/products/43/1.jpg",
+                    "https://i.dummyjson.com/data/products/43/2.jpg",
+                    "https://i.dummyjson.com/data/products/43/3.jpg",
+                    "https://i.dummyjson.com/data/products/43/4.jpg",
+                    "https://i.dummyjson.com/data/products/43/thumbnail.jpg"
+                ]
+            },
+            "quantity": 4,
+            "createdAt": 1703650390216,
+            "id": 14
         }
     ]
 }
